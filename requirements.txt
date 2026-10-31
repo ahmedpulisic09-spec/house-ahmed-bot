@@ -1,4 +1,6 @@
+Flask
+gunicorn
+wikipedia
 requests
 cowsay
-flask
-requests
+
